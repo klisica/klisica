@@ -1,3 +1,3 @@
-### Welcome to my profile! ✌️
+### Hi there! 👋
 
-I'm Krševan, a `Full-Stack Developer` with a +5 years of work experience.
+<p>My name is <b>Krševan Lisica</b>.</p>
