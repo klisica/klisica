@@ -15,3 +15,5 @@ Additionally, I utilize:
 By day, I build top-notch applications, and by night, I play chess!
 
 Wanna play? ♟️ Challenge me on [Chess.com](https://link.chess.com/play/jGYw2M)!
+
+<a href="https://app.daily.dev/klisica"><img src="./devcard.png" width="356" alt="Krševan Lisica's Dev Card"/></a>
