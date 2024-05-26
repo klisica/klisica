@@ -1,6 +1,6 @@
 ### Greetings!  👋
 
-#### I'm a Lead Software Developer @ [QED](https://www.qedcode.io/), Founder @ [Meštar.hr](https://mestar.hr/)
+#### Lead Software Developer @ [QED](https://www.qedcode.io/), Founder @ [Meštar.hr](https://mestar.hr/)
 
 Specializing in **`Laravel & Vue.js`**, but also familiar with **`React.js & React Native`**. <br /> 
 I create beautiful and complex Websites, Applications, e-Commerce, SaaS products, Rest APIs, and more!
